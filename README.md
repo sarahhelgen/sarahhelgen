@@ -6,7 +6,8 @@
 
 ---
 
-#### Current Stack:
+#### Toolbox 🧰 :
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg>
 
 #### Contact Me:
 
