@@ -2,6 +2,12 @@
 
 #### I'm a recovering politico turned full stack software engineer. 
 
+#### Current Stack:
+
+#### Contact Me:
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sarahhelgen&show_icons=true)
+
 
 
 <!--
