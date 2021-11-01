@@ -2,7 +2,7 @@
 
 ---
 
-#### I'm a recovering politico turned full stack software engineer. 
+#### I'm a recovering politico turned full stack software engineer.  I strongly believe diversity brings better ideas, and I'm excited to bring my desire to create a better world to the tech industry. Also into biking 🚴🏻‍♀️, lifting heavy things 🏋🏻‍♀️, travel ✈️ , and food 🍔🍕🌯🍜🍱.
 
 ---
 
