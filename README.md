@@ -7,8 +7,7 @@
 ---
 
 #### Toolbox 🧰 :
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" widith="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height ="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" widith="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height ="50"/>
 
 #### Contact Me:
 
