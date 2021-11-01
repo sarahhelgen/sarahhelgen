@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Sarah Helgen!
+
+#### I'm a recovering politico turned full stack software engineer. 
+
+
 
 <!--
 **sarahhelgen/sarahhelgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
