@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sarah Helgen!
+### Hi there 👋, I'm Sarah Helgen (she/her)!
 
 ---
 
